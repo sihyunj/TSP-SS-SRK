@@ -1,5 +1,5 @@
 # TSP-SS-SRK
-TSP and SS based social network analysis (for Social Relation Key project)
+#TSP and SS based social network analysis (for Social Relation Key project)
 
 ========================================================================
 
