@@ -14,6 +14,6 @@ socialstatus.py
 edgelist.txt (It's example edge list with tab as delimeter. directed edges.)
 
 
-contact:
 
-sihyunj@snu.ac.kr (Sihyun Jeong)
+
+contact: sihyunj@snu.ac.kr (Sihyun Jeong)
