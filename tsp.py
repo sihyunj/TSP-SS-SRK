@@ -78,7 +78,7 @@ def zscore(egonet,total_census,nodes):
         wf.write(n)
         
         for k in census.keys():
-            wf.write('\n')
+            wf.write('\t')
             
             zscore = float(census[k] - average_census[k])/float(std_census[k])
             wf.write(str(zscore))
