@@ -32,7 +32,7 @@ def triad_count(egonet,nodes):
         wf.write(n)
         
         for k in census.keys():
-            wf.write('\n')
+            wf.write('\t')
             wf.write(str(census[k]))
             
             #if k in total_census.keys():
