@@ -5,15 +5,15 @@ TSP and SS based social network analysis (for Social Relation Key project)
 
 *1. files:*
 
-main.py
++ main.py
 
-triadic.py (refer https://github.com/maksim2042/SNABook/blob/master/chapter4/triadic.py)
++ triadic.py (refer https://github.com/maksim2042/SNABook/blob/master/chapter4/triadic.py)
 
-tsp.py
++ tsp.py
 
-socialstatus.py
++ socialstatus.py
 
-edgelist.txt (It's example edge list with tab as delimeter. directed edges.)
++ edgelist.txt (It's example edge list with tab as delimeter. directed edges.)
 
 
 
