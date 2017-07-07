@@ -1,7 +1,9 @@
 # TSP-SS-SRK
 TSP and SS based social network analysis (for Social Relation Key project)
 
-1. files:
+========================================================================
+
+*1. files:*
 
 main.py
 
@@ -16,4 +18,5 @@ edgelist.txt (It's example edge list with tab as delimeter. directed edges.)
 
 
 
-2. contact: sihyunj@snu.ac.kr (Sihyun Jeong)
+*2. contact:*
+sihyunj@snu.ac.kr (Sihyun Jeong)
